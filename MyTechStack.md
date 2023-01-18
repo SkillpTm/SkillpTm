@@ -5,7 +5,7 @@
 - GIS (Geo-Information-Stystems)
 - Blender
 - Python
-- - SQLite3
+- SQLite3
 - Java
 - Godot (with GDscript)
 - Rust
