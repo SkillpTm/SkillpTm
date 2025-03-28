@@ -10,7 +10,7 @@
         </p>
     </li>
     <li>
-        Creator of <a href="https://github.com/SkillpTm/Quick-Search">Quick-Search</a><sub> → work in progress search utility</sub>
+        Creator of <a href="https://github.com/SkillpTm/Bolt">Bolt</a><sub> → work in progress search utility</sub>
         <p>
             <a href="https://github.com/golang/go"><img alt="Go" src="https://img.shields.io/badge/Go-007d9c.svg?logo=Go&logoColor=white"></a>
             <a href="https://github.com/microsoft/TypeScript"><img alt="Typescript" src="https://img.shields.io/badge/Typescript-3378c9.svg?logo=Typescript&logoColor=white"></a>
