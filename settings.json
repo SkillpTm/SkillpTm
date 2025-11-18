@@ -42,11 +42,18 @@
 	"python.terminal.activateEnvironment": false,
 	"[python]": {
 		"editor.insertSpaces": true,
-		"editor.tabSize": 4,
+		"editor.tabSize": 4
+	},
+	"python.analysis.diagnosticSeverityOverrides": {
+		"reportOptionalMemberAccess": "none",
+		"reportUnknownMemberType": "none",
+		"reportUnknownVariableType": "none",
+		"reportUnknownArgumentType": "none"
 	},
 	"python.analysis.inlayHints.functionReturnTypes": true,
 	"python.analysis.inlayHints.variableTypes": true,
 	"python.analysis.inlayHints.callArgumentNames": "all",
+	"python.analysis.typeCheckingMode": "strict",
 	"pylint.args": [
 		"--disable=C0114",
 		"--disable=C0115",
@@ -57,6 +64,7 @@
 		"--disable=E1121",
 		"--disable=W0102",
 		"--disable=W0212",
+		"--disable=W0223",
 		"--disable=W0718",
 		"--max-line-length=300",
 		"--const-naming-style=UPPER_CASE",
@@ -65,7 +73,7 @@
 	// Go
 	"go.lintOnSave": "workspace",
 	"go.lintFlags": [
-		"-checks=all,-ST1005",
+		"-checks=all,-ST1005"
 	],
 	"go.inlayHints.constantValues": true,
 	"go.inlayHints.compositeLiteralFields": true,
