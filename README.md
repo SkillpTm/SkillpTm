@@ -6,7 +6,7 @@
         <p>
             <a href="https://github.com/python/cpython"><img alt="Python" src="https://img.shields.io/badge/Python-417fb1.svg?logo=python&logoColor=white"></a>
             <a href="https://github.com/nextcord/nextcord"><img alt="Nextcord" src="https://custom-icon-badges.demolab.com/badge/Nextcord-0d1620.svg?logo=nextcord"></a>
-            <a href="https://github.com/postgres/postgres"><img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-c0765a.svg?logo=mariadb&logoColor=white"></a>
+            <a href="https://github.com/MariaDB/server"><img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-c0765a.svg?logo=mariadb&logoColor=white"></a>
         </p>
     </li>
     <li>
