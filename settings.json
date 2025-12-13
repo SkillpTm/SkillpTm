@@ -93,7 +93,6 @@
 	// Copilot Settings
 	"chat.agent.enabled": false,
 	"github.copilot.chat.agent.autoFix": false,
-	"github.copilot.chat.agent.currentEditorContext.enabled": false,
 	"github.copilot.chat.codeGeneration.useInstructionFiles": false,
 	"github.copilot.chat.copilotDebugCommand.enabled": false,
 	"github.copilot.chat.customInstructionsInSystemMessage": false,
@@ -112,5 +111,7 @@
 	"github.copilot.nextEditSuggestions.fixes": false,
 	"github.copilot.renameSuggestions.triggerAutomatically": false,
 	"github.copilot.advanced": {},
-	"github.copilot.nextEditSuggestions.allowWhitespaceOnlyChanges": false
+	"github.copilot.nextEditSuggestions.allowWhitespaceOnlyChanges": false,
+	"terminal.integrated.fontFamily": "MesloLGS NF",
+	"terminal.integrated.shellIntegration.enabled": false
 }
