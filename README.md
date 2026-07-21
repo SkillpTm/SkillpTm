@@ -19,6 +19,6 @@
     </li>
 </ul>
 
-<img alt="Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkillpTm&layout=compact&theme=dark">
+<img alt="Top Languages Card" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SkillpTm&layout=compact&theme=dark">
 
 <sub><samp>I have one goal: build cool stuff<br>and sometimes my stuff doesn't even suck.<samp></sub>
